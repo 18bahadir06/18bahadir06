@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır</h1>
-<h3 align="center">"Hello, I am a software developer with an associate degree in Computer Programming. I am currently pursuing a bachelor's degree in Management Information Systems. I work primarily with .NET and C#.</h3>
+<h3 align="center">Hello, I am a software developer with an associate degree in Computer Programming. I am currently pursuing a bachelor's degree in Management Information Systems. I work primarily with .NET and C#.</h3>
 
 - 📫 How to reach me **bahadirakkas06@gmail.com**
 
